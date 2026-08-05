@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "21 Life Lessons from the Bhagavad Gita",
+    "category": "Bhagavad Gita",
+    "description": "Practical life lessons inspired by the Bhagavad Gita.",
+    "cover": "assets/books/gita21.jpg",
+    "amazon": "https://www.amazon.com/author/sanatanahub",
+    "google": "",
+    "gumroad": "https://9076486163395.gumroad.com/l/vsfuat"
+  },
+  {
+    "id": 2,
+    "title": "5-Minute Gratitude Journal",
+    "category": "Journal",
+    "description": "Build a daily gratitude habit in just five minutes.",
+    "cover": "assets/books/gratitude.jpg",
+    "amazon": "https://www.amazon.com/author/sanatanahub",
+    "google": "",
+    "gumroad": "https://9076486163395.gumroad.com/l/pjptb"
+  },
+  {
+    "id": 3,
+    "title": "Little Krishna Activity Book",
+    "category": "Activity Book",
+    "description": "Fun learning activities for children.",
+    "cover": "assets/books/krishna.jpg",
+    "amazon": "https://www.amazon.com/author/sanatanahub",
+    "google": "",
+    "gumroad": "https://9076486163395.gumroad.com/l/shfnav"
+  }
+]
